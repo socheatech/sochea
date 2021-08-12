@@ -45,44 +45,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [VS Code Anywhere! Use THIS Trick to get GitHub Codespaces NOW!](https://www.youtube.com/channel/UCnyIK_xMAnpqcwMKKaYQxgQ)
-- [4 Steps to Make $Millions with an API 💰, Don't Miss THIS!](https://www.youtube.com/channel/UCnyIK_xMAnpqcwMKKaYQxgQ)
-- [⭐ BONUS: STACKr News Shorts - Top 10 programming languages to learn in 2022](https://www.youtube.com/channel/UCnyIK_xMAnpqcwMKKaYQxgQ)
-- [StackOverflow Survey 2021 Results! 📊, Java Roadmap 🚘, Build a Budget App in Python 🐍 // STACKr News](https://www.youtube.com/channel/UCnyIK_xMAnpqcwMKKaYQxgQ)
-- [⭐ BONUS: STACKr News Shorts - Add Authentication to Next.js](https://www.youtube.com/channel/UCnyIK_xMAnpqcwMKKaYQxgQ)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCnyIK_xMAnpqcwMKKaYQxgQ)
-
----
-
-### 📕 Latest Blog Posts
-➡️ [more blog posts...](https://socheatech.com)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://socheatech.com
 [twitter]: https://twitter.com/Socheaofficial
