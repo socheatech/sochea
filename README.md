@@ -1,6 +1,6 @@
 ### Hi there, Sochea Tech 👋👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://socheatech.com)
+[![Website](https://img.shields.io/website?label=socheatech.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://socheatech.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Socheaofficial/followers)
 
 ## I'm not a programmer, I'm just write a code.
