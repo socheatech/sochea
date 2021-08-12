@@ -48,28 +48,19 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [VS Code Anywhere! Use THIS Trick to get GitHub Codespaces NOW!](https://www.youtube.com/watch?v=RezYIIJYZ6Y)
-- [4 Steps to Make $Millions with an API 💰, Don't Miss THIS!](https://www.youtube.com/watch?v=GpYboktUnTY)
-- [⭐ BONUS: STACKr News Shorts - Top 10 programming languages to learn in 2022](https://www.youtube.com/watch?v=-qcmzbsItnk)
-- [StackOverflow Survey 2021 Results! 📊, Java Roadmap 🚘, Build a Budget App in Python 🐍 // STACKr News](https://www.youtube.com/watch?v=7C3TdqA9vGs)
-- [⭐ BONUS: STACKr News Shorts - Add Authentication to Next.js](https://www.youtube.com/watch?v=H37-PgkpBO0)
+- [VS Code Anywhere! Use THIS Trick to get GitHub Codespaces NOW!](https://www.youtube.com/channel/UCnyIK_xMAnpqcwMKKaYQxgQ)
+- [4 Steps to Make $Millions with an API 💰, Don't Miss THIS!](https://www.youtube.com/channel/UCnyIK_xMAnpqcwMKKaYQxgQ)
+- [⭐ BONUS: STACKr News Shorts - Top 10 programming languages to learn in 2022](https://www.youtube.com/channel/UCnyIK_xMAnpqcwMKKaYQxgQ)
+- [StackOverflow Survey 2021 Results! 📊, Java Roadmap 🚘, Build a Budget App in Python 🐍 // STACKr News](https://www.youtube.com/channel/UCnyIK_xMAnpqcwMKKaYQxgQ)
+- [⭐ BONUS: STACKr News Shorts - Add Authentication to Next.js](https://www.youtube.com/channel/UCnyIK_xMAnpqcwMKKaYQxgQ)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UCnyIK_xMAnpqcwMKKaYQxgQ)
 
 ---
 
 ### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://socheatech.com)
 
 ---
 
@@ -93,13 +84,12 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: https://socheatech.com
+[twitter]: https://twitter.com/Socheaofficial
+[youtube]: https://www.youtube.com/channel/UCnyIK_xMAnpqcwMKKaYQxgQ
+[instagram]: https://www.instagram.com/socheaofficial
+[linkedin]: https://www.linkedin.com/in/socheaofficial
+[webdevplaylist]: https://www.youtube.com/channel/UCnyIK_xMAnpqcwMKKaYQxgQ
+[jsplaylist]: https://www.youtube.com/channel/UCnyIK_xMAnpqcwMKKaYQxgQ
+[cssplaylist]: https://www.youtube.com/channel/UCnyIK_xMAnpqcwMKKaYQxgQ
+[reactplaylist]: https://www.youtube.com/channel/UCnyIK_xMAnpqcwMKKaYQxgQ
